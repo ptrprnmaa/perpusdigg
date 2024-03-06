@@ -8,7 +8,7 @@
   </head>
   <body>
 
-    <div class="contimain">
+    <div class="container">
         <div class="conten">
             <div class="card" style="margin-top: 2rem;">
                 <div class="row">
